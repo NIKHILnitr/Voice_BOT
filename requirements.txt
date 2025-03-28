@@ -1,2 +1,8 @@
+
 streamlit
 google-generativeai
+speechrecognition
+pyaudio
+pyttsx3
+pydub
+portaudio19-dev
